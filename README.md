@@ -5,7 +5,7 @@ Basit ve kullanışlı API sistemi ve basitleştirilmiş yazma stili ile port ta
 [Node.js](https://nodejs.org) komut dosyalarını 'npm' aracılığıyla çalıştırmak için gereklidir.
 
 ## Örnek
-`http://localhost:3000/api/process/127.0.0.1`
+`http://localhost:300/api/process/127.0.0.1`
 
 ## Sonuç
 ``` 
